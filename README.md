@@ -5,7 +5,7 @@ This project was created as part of my web development learning journey, focusin
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 my-cafe-html/
 ├── index.html # Home page with welcome message and image
 ├── menu.html # Menu page with drinks and pastries
@@ -13,7 +13,7 @@ my-cafe-html/
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - HTML5
 - Semantic tags for structure
 - Internal navigation with `<a>` links
@@ -21,13 +21,13 @@ my-cafe-html/
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 You can view the live version of this project here:  
 [**My Personal Café Website**](https://armin-movahed.github.io/my-cafe-HTML/)
 
 ---
 
-## 📚 Learning Goals
+## Learning Goals
 - Build a clean HTML structure
 - Practice semantic HTML tags
 - Learn basic navigation between pages
@@ -35,14 +35,14 @@ You can view the live version of this project here:
 
 ---
 
-## 📅 Project Timeline
+## Project Timeline
 - **Day 1**: Completed HTML structure for all pages
 - **Day 2**: Added basic styling (CSS — upcoming)
 - **Day 3**: Publish and improve README
 
 ---
 
-## 📬 Contact
+## Contact
 Created by [Armin Movahedi far]  
-📧 Email: arminmovahed84@gmail.com
-🌍 GitHub: [yourusername](https://github.com/Armin-Movahed)
+Email: arminmovahed84@gmail.com
+GitHub: [yourusername](https://github.com/Armin-Movahed)
